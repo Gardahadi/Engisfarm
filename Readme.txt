@@ -1,0 +1,2 @@
+- To compile execute compileOOP.sh file
+- After compiling, run executable 
