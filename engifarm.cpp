@@ -34,7 +34,7 @@ int main(){
     ***************************/
     while(!gameOver){
 
-        Clear Screen 
+        //Clear Screen 
         system("clear");
         G.printKeadaan(Name);        
         G.printMap();
